@@ -44,9 +44,15 @@ SwiperProject/
 ```
 ---
 
-### 💡 Why this wording is GOOD
-- ✅ Clearly says **practice project**
-- ✅ Still sounds **professional**
-- ✅ Safe for resume / GitHub
-- ❌ Does NOT sound like a “tutorial copy”
+```
+🛠️ Technologies Used
 
+HTML5
+
+CSS3
+
+Vanilla JavaScript
+
+Swiper.js (v11)
+
+```
