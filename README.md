@@ -1,4 +1,4 @@
-# SwiperProject
+# ImagIO- Image Handling, Reimagined!
 
 A **practice-focused project** built to explore and understand the real-world usage of **Swiper.js** by creating a dynamic, user-driven image slider using **HTML, CSS, and JavaScript**.
 
